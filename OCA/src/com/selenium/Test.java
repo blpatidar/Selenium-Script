@@ -6,6 +6,7 @@ public class Test {
 		  LoginPageHelper helper = new LoginPageHelper();
 		  FormDetails formdetails=new FormDetails();
 		  helper.openBrowser();
+		  //try block
 		  
 		 try {
 			 int i=10;
