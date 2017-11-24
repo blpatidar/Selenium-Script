@@ -17,7 +17,7 @@ public class Test {
 	      formdetails.setDay("5");
 	      formdetails.setYear("1994");
 	      formdetails.setPhone("919424222222");
-	      formdetails.setUserName("blpatidar"+i);
+	      formdetails.setUserName("blpatidar"+ ++i);
 	      formdetails.setEmail("githublive@gmail.com");
 	      formdetails.setProfilePicture("C:\\Users\\Linux\\Desktop\\bldon1.jpg");
 	      formdetails.setPassword("Demo@12345");
